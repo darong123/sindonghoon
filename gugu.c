@@ -6,5 +6,6 @@ int main(void){
       printf("%3d X %2d = %3d",d,i,d*i);
     } printf("\n");
   }
+  printf("darong darong");
   return 0;
 }
